@@ -1,10 +1,10 @@
 # JS 小练习
 
-- barrage 弹幕效果
+- barrage 	弹幕效果
 
-- card-css 卡片抽取效果
+- card-css  卡片抽取效果
 
-- snake 贪吃蛇效果
+- snake 		贪吃蛇效果
 
 ## About
 
